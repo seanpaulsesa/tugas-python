@@ -18,3 +18,5 @@ output_teks = balik_teks(input_teks)
 
 print("Input  :", input_teks)
 print("Output :", output_teks)
+
+
